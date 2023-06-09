@@ -1,7 +1,7 @@
 roman_account = {
         'account_no': '12345',
         'full_name': 'roman reigns',
-        'user_name': 'beast',
+        'user_name': 'underdog',
         'password' : '123',
         'ballance': 3000,
         'additional_ballance': 1000
@@ -10,7 +10,7 @@ roman_account = {
 jason_account = {
     'account_no': '67890',
     'full_name': 'jason wall',
-    'user_name': 'bear',
+    'user_name': 'tiger',
     'password': '123',
     'ballance': 5000,
     'additional_ballance': 1000
@@ -20,7 +20,7 @@ jason_account = {
 hunter_account = {
     'account_no': '192837',
     'full_name': 'hunter patrick',
-    'user_name': 'keko',
+    'user_name': 'killer',
     'password': '123',
     'ballance': 8000,
     'additional_ballance': 1000
